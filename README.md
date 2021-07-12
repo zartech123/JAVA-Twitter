@@ -5,4 +5,3 @@ Simple Java based Application to integrate with Twitter API for
 - Post Text Message (updateStatus)
 - Post Image (uploadMedia)
 - Read Incoming Tweet (getUserTimeline)
-- 
